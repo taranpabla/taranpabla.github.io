@@ -247,7 +247,7 @@ a.icon>strong {
 .delete:before,
 .modal-close:after,
 .modal-close:before {
-    background-color: #AD371D;
+    background-color: #fff;
     content: "";
     display: block;
     left: 50%;
