@@ -1,4 +1,4 @@
-# taranpabla.github.io
+# taranpabla.io
 
-## Link to Website
-https://taranpabla.github.io/
+## Personal Website:
+http://taranpabla.io/
