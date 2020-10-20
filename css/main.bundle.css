@@ -1033,8 +1033,12 @@ a.has-text-black:hover {
     background-color: #0a0a0a !important
 }
 
-.has-text-blue {
+.has-text-light-blue {
     color: #a6e8f7 !important
+}
+
+.has-text-dark-blue {
+    color: #446cf4 !important
 }
 
 .has-text-light {
