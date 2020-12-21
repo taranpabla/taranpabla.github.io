@@ -1,9 +1,9 @@
 {
-  "name": "devfolio",
+  "name": "taranpabla.io",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
-  "author": "Mark Macneil",
+  "author": "Taran Pabla, Mark Macneil",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production"
