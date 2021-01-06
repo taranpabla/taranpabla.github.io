@@ -5,8 +5,6 @@ require('flickity-imagesloaded');
 
 var $carousels = new Array();
 
-// Modals
-
 var rootEl = document.documentElement;
 var $modals = getAll('.modal');
 var $modalTriggers = getAll('.modal-trigger');
@@ -61,7 +59,7 @@ function closeModals() {
 function initCarousel(id) {
     return new Flickity('#' + id, {
         imagesLoaded: true,
-        adaptiveHeight: true // https://github.com/metafizzy/flickity/issues/11
+        adaptiveHeight: true 
     });
 }
 
